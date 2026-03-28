@@ -1,0 +1,1 @@
+# Binance Trading Bot \n A Python CLI bot for Binance Testnet.
